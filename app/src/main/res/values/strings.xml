@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">csuf counter</string>
+    <string name="bulldogs">Bulldogs</string>
+    <string name="_0">0</string>
+    <string name="bulldogs">Bulldogs</string>
+    <string name="touchdown">TOUCHDOWN</string>
+    <string name="extra_point">Extra Point</string>
+    <string name="field_goal">field goal</string>
+</resources>

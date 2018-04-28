@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--margins-->
+    <dimen name="top_margin_lg">12dp</dimen>
+    <dimen name="top_margin_med">8dp</dimen>
+    <dimen name="top_margin_sm">4dp</dimen>
+    <dimen name="bottom_margin_lg">12dp</dimen>
+    <dimen name="bottom_margin_med">8dp</dimen>
+    <dimen name="bottom_margin_sm">4dp</dimen>
+
+    <!--padding-->
+    <dimen name="left_padding_large">14dp</dimen>
+    <dimen name="right_padding_large">14dp</dimen>
+    <dimen name="right_padding_med">8dp</dimen>
+    <dimen name="left_padding_med">8dp</dimen>
+
+    <!--text size-->
+
+    <!--space between elements-->
+
+    <!--button size-->
+
+</resources>
